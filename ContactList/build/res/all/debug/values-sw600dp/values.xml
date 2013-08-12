@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/W:/work/repos/ContactListProject/ContactList/src/main/res/values-sw600dp/refs.xml -->
+    <item name="activity_person_list" type="layout">@layout/activity_person_twopane</item>
+
+</resources>

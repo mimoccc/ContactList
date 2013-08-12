@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376265261869 374 0f27346c9b7759fd6a101edb6055ff4be1e1f9db W:\work\repos\ContactListProject\ContactList\src\main\res\values-large\refs.xml
+1376265261887 184 6da94692ed939e68384e9610743caa72626fdd09 W:\work\repos\ContactListProject\ContactList\src\main\res\values\strings.xml
+1376265261731 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 W:\work\repos\ContactListProject\ContactList\src\main\res\values\styles.xml
+1376265261920 1379 24178d762bcb5e23237209755862ef3b72e0fea4 W:\work\repos\ContactListProject\ContactList\src\main\res\layout\activity_person_twopane.xml
+1373582896000 9397 4a5a9affbb731f195fc18fea78d51be7db7536a2 W:\work\repos\ContactListProject\ContactList\src\main\res\drawable-hdpi\ic_launcher.png
+1376265261879 374 0f27346c9b7759fd6a101edb6055ff4be1e1f9db W:\work\repos\ContactListProject\ContactList\src\main\res\values-sw600dp\refs.xml
+1376265261743 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f W:\work\repos\ContactListProject\ContactList\src\main\res\values-v11\styles.xml
+1373582896000 5237 7761bceaf18ed25cdba5f34bf00a55616d078acf W:\work\repos\ContactListProject\ContactList\src\main\res\drawable-mdpi\ic_launcher.png
+1376265261928 391 c472def711e924a9d092acf8101ac734382f5c35 W:\work\repos\ContactListProject\ContactList\src\main\res\layout\fragment_person_detail.xml
+1376265261744 381 b129b276e01126de5b3b753572ac67cbfc19454c W:\work\repos\ContactListProject\ContactList\src\main\res\values-v14\styles.xml
+1376265261907 461 9b749a69157df085d593fcb93b6e0eea64e0cf6b W:\work\repos\ContactListProject\ContactList\src\main\res\layout\activity_person_list.xml
+1376265261898 329 6327bcbcd4ddc258193544ec0da09d8b3a376de1 W:\work\repos\ContactListProject\ContactList\src\main\res\layout\activity_person_detail.xml
+1373582896000 14383 82acdd75e3fcc36026109406625edc69d4d7212d W:\work\repos\ContactListProject\ContactList\src\main\res\drawable-xhdpi\ic_launcher.png

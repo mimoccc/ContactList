@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376268237035 607 2c2fc6c93f1c0f92898052da55f174f7b1db51eb W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\R.class
+1376268237034 440 f9e981ff06951e05718b968fb765fc736a0199fd W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\R$style.class
+1376269255042 1049 671d26999da904184d1c33396ea6969be59e95ca W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\Contact\Contact$Person.class
+1376268237033 558 2e28e70529a5bdf33ffe4a6add8fc25aa02566b6 W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\R$layout.class
+1376268237032 349 3666e0b81326164c75a52821f668a999951b01ce W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\R$attr.class
+1376268237013 2223 d2028b7c85bf0b7df11d1cd18064cf519cdcb713 W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\PersonListActivity.class
+1376268237033 482 79eced11748a67d14496f27cc09252f643c6337c W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\R$id.class
+1376268236978 2111 5d3cc1e959bbb1fe2c3fd364c64a1eee4e7880e8 W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\PersonDetailActivity.class
+1376269196073 1844 49768ee2cba01a043a488a7f81f2f0312d5d03e1 W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\PersonDetailFragment.class
+1376268237032 416 39fda7de49cd18f5ac3fafd22949c162036ce27c W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\R$drawable.class
+1376268237034 450 c6db8e722467574e2053b62b8b8cb8aca0fe73d4 W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\R$string.class
+1376268237025 287 450276254f6d5931e234c47a4118cf1183cff500 W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\PersonListFragment$Callbacks.class
+1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\dev\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1376268237026 647 dc8f90eea083dd1bcdeeaf647c2ecdec0821b383 W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\PersonListFragment$1.class
+1376269315492 1540 e3c2d4ff18e86c008f702fc86f098b2dbd9ed97b W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\Contact\Contact.class
+1376268237029 3272 7d31d7b1a96c28f9464612a5520b4a84bc118f65 W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\PersonListFragment.class
+1376268237036 351 9b0d0a36b092e01b615cf4257b7cc37987708ae4 W:\work\repos\ContactListProject\ContactList\build\classes\debug\com\delta\contactlist\BuildConfig.class
